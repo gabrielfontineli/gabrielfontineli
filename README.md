@@ -1,7 +1,7 @@
 #### Software Engineer
 👋 Hey there, I’m Gabriel!
 
-I’m a software engineer with a passion for building great software. Since a child
+I’m a software engineer with a passion for building great software.
 
 🚀 Tech I Love
 
